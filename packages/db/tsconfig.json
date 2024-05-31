@@ -1,0 +1,9 @@
+{
+  "extends": "@repo/typescript-config/base.json",
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "include": ["src", "prisma/seed.ts"],
+  "exclude": ["node_modules", "dist"]                              /* Skip type checking all .d.ts files. */
+}
+
