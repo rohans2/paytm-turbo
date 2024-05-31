@@ -1,4 +1,4 @@
-#Tech Stack - Next.js, Typescript, Node.js, Express.js, Turborepos, TailwindCSS, PostgreSQL
+# Tech Stack - Next.js, Typescript, Node.js, Express.js, Turborepos, TailwindCSS, PostgreSQL
 
 
 ## Using this example
