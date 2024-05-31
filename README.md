@@ -1,6 +1,5 @@
-# Turborepo starter
+#Tech Stack - Next.js, Typescript, Node.js, Express.js, Turborepos, TailwindCSS, PostgreSQL
 
-This is an official starter Turborepo.
 
 ## Using this example
 
